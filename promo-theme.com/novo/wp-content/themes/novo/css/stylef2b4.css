@@ -6133,7 +6133,7 @@ body {
   min-width: 320px;
   position: relative;
   line-height: 1.5;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   overflow-x: hidden;
   min-height: 100%;
   margin: 0;
@@ -6166,7 +6166,7 @@ section {
 
 body {
   margin: 0;
-  font-family: 'Montserrat';
+  font-family: 'Helvetica Neue';
   font-size: 16px;
   color: #161616;
 }
